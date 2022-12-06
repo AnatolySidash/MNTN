@@ -1,0 +1,15 @@
+.account__link {
+   text-decoration: none;
+   font-family: Gilroy;
+   font-size: 17px;
+   line-height: 21px;
+   color: #fff;
+   position: relative;
+   display: flex;
+   align-items: center;
+   transition: color .3s linear;
+}
+
+.account__link:hover {
+   color: #FBD784;
+}
